@@ -1,0 +1,5 @@
+Item,Designator,Qty,Value,Package / Footprint,Manufacturer Part No,Note
+1,"R1, R2",2,10k 1%,0805,0805W8F1002T5E,
+2,R3,1,560k 1%,0805,0805W8F5603T5E,
+3,C1,1,"470uF 16V aluminium electrolytic, SMD",D8 x L10.2 mm (KiCad CP_Elec_8x10.5),EEE-FK1C471AP (Panasonic),Polarised: pad 1 / marked side is +
+4,Bat1,1,"JST PH 2-pin header, 2.0 mm pitch, vertical, through-hole",JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,B2B-PH-K-S(LF)(SN),Through-hole. Pin 1 = battery positive; keep the polarity as placed.

@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC Part #
+10k 1%,"R1, R2",R_0805_2012Metric,C17414
+560k 1%,R3,R_0805_2012Metric,C185286
+470uF 16V,C1,CP_Elec_8x10.5,C401707
+Resettable fuse 2.5A 16V,F1,Fuse_1812_4532Metric,C210838
+JST PH 2-pin,Bat1,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,C131337
